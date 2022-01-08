@@ -18,9 +18,9 @@ const About = () => {
             <div className="a-right">
                 <h1 className="a-title" >About me</h1>
                 <p className="a-sub">
-                    So This is what i created I don't know what should I write herer and
-                    that's why I wrote this shitt!! Hope you like it yess talking about this shitt
-                    lol.........Have a nice day!
+                    So This picture you can see is just a pic, this is not mine anyways I am a programmer and I 
+                    do what I love to I make websites like this, I can do some editing, I can do web scrapping,
+                    I can do lots of things this is not mine final portfolio many more things are coming soon...
                 </p>
         
             </div>
